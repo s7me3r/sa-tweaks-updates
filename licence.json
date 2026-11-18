@@ -1,5 +1,7 @@
 {
-  "issued": 1795022756,
-  "revoked": [],
-  "sig": "cbdef2aba6e1c30610ffed186dbb003d2513f937db756a29de49e8e88df976f7892dae6fe821a3968c0d8071e0e97e4f69d55bfe6daaa45d9d64957f74090306"
+  "issued": 1795024753,
+  "revoked": [
+    "34032e9b0f5b47d73db6"
+  ],
+  "sig": "956264eba16cc4eab85814d98ae314dc4afdbc1afa18090d6fc62e4d2e4a9d8e3d9a352d27d7708bd628c49c28e04a92da3d7487b0d2bda39725438b1b0d0e0e"
 }
