@@ -1,5 +1,5 @@
 {
-  "issued": 1795113250,
+  "issued": 1795113478,
   "revoked": [],
   "grants": {
     "1d06ef0f2b61acdd74cd": {
@@ -7,13 +7,13 @@
       "exp": 1517461
     },
     "34032e9b0f5b47d73db6": {
-      "plan": "1 hours",
-      "exp": 1517466
+      "plan": "Lifetime",
+      "exp": null
     },
     "dcd7735f560db4d4cbf8": {
       "plan": "Lifetime",
       "exp": null
     }
   },
-  "sig": "fadfa0e9184fd2c3aec5f0044da8de21eecce00aca002e3e5a7ffd9d6508b89f6fe17b44c0d7c628ea7bd29ab480f914954c2277d221283f8f21108733a1dc0c"
+  "sig": "ef157207cdc1a2e2dbc779df51061bac9694dfda432d390b3af2ce782083c945448162f315175e5464f49a92491731e45fce3c8910205f120e25e6f2c8d1970e"
 }
