@@ -1,11 +1,11 @@
 {
-  "issued": 1795111240,
+  "issued": 1795111263,
   "revoked": [],
   "grants": {
     "1d06ef0f2b61acdd74cd": {
-      "plan": "1 day trial (24 hours)",
-      "exp": 1518840
+      "plan": "1 hours",
+      "exp": 1517461
     }
   },
-  "sig": "3a234f9f0e2452810771e989aec67c5db4e6a17d437cbb774e8218a160076ecf11e221c7e71d77f5b20f763d5815ba21facad24ee1063899e528f335587f6601"
+  "sig": "5261c89ad5216d7e3aea4d52be946a0607a3c38feebb3120fd2cd7fa93517bd4c3c124f38d768e81d66f1be7466bf4fb61838545c7fcdce56c2c464853f85708"
 }
