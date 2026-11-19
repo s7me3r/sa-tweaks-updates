@@ -1,6 +1,8 @@
 {
-  "issued": 1795112624,
-  "revoked": [],
+  "issued": 1795113239,
+  "revoked": [
+    "dcd7735f560db4d4cbf8"
+  ],
   "grants": {
     "1d06ef0f2b61acdd74cd": {
       "plan": "1 hours",
@@ -15,5 +17,5 @@
       "exp": null
     }
   },
-  "sig": "28ace2e134c88aadbfa791ebce7a3313c982483781f42d1d071922f2a2bcef98ed3bcd3eebe71cdf6214b95323a8efba3cebe8d03774a1f300b9c419ec6e2f02"
+  "sig": "2848e1a57de88676f1611dddc7b74d8c9809c76f47826a0258bfb46f4b65a13177fd8e376e40d4186fc80cd8930fe7113446fbb27b37cd87a981cff712ec2e0c"
 }
