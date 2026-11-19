@@ -1,11 +1,11 @@
 {
-  "issued": 1795111231,
+  "issued": 1795111240,
   "revoked": [],
   "grants": {
     "1d06ef0f2b61acdd74cd": {
-      "plan": "Lifetime",
-      "exp": null
+      "plan": "1 day trial (24 hours)",
+      "exp": 1518840
     }
   },
-  "sig": "1914f6585be606eb8e5549fb2d31c9ee9b4e082a8a643e2a5375a223eceb2063e5aa5b686eaee9f9813720d4681e48cb634e109e1d04e7f8b6d124d60eb93104"
+  "sig": "3a234f9f0e2452810771e989aec67c5db4e6a17d437cbb774e8218a160076ecf11e221c7e71d77f5b20f763d5815ba21facad24ee1063899e528f335587f6601"
 }
